@@ -1,0 +1,16 @@
+# Ignora a pasta de build do Maven
+target/
+
+# Ignora logs
+*.log
+
+# Ignora arquivos temporários de sistema
+.DS_Store
+Thumbs.db
+
+# Ignora configurações de IDE (ex.: IntelliJ, Eclipse)
+*.iml
+.idea/
+.classpath
+.project
+.settings/
